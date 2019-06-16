@@ -21,19 +21,25 @@ Table of Contents
 Courses
 -------
 
-
+--------
 ### Linear Algebra
 
+--------
 ### Optimization
 
+--------
 ### Signals and System
 
+--------
 ### Digital Signal Processing
 
+--------
 ### Controls
 
+--------
 ### Machine Learnring
 
+--------
 ### Motion Planning
 
 
