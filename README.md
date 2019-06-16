@@ -203,9 +203,6 @@ Courses
 
 
 --------
-### Basic of Robots
-
-
 ### Miscellaneous
 
  1. **Probability by Joe Blitstein, Harvard**
