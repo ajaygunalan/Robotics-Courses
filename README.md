@@ -101,6 +101,11 @@ Courses
 - [book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - [slides](http://stanford.edu/class/ee364b/lectures.html)
 
+7. **Monte Carlo Methods and Stochastic Optimization by Verena Kaynig-Fittkau and Pavlos Protopapas, Harvard**
+
+- [course webpage](http://am207.github.io/2016/index.html)
+- [videos](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/02/24104)
+
 
 --------
 ### Signals and System
