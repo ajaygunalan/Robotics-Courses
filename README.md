@@ -17,6 +17,7 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Motion Planning](#motion-planning)
 - [SLAM](#slam)
+- [Miscellaneous](#miscellaneous)
 
 
 
@@ -202,7 +203,14 @@ Courses
 --------
 ### Hybrid Courses (ML + Control)
 
-1.
+1. **Data-driven Control by Prof. Steve Brunton, UW**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
+
+2. **Underactuated Robotics by Prof. Russ Tedrake, MIT**
+
+- [course webpage](http://underactuated.csail.mit.edu/Spring2018/)
+- [youtube videos](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/videos)
 
 
 --------
@@ -223,6 +231,10 @@ Courses
 
  1. **Probability by Joe Blitstein, Harvard**
 
-- [course webpageects.iq.harvard.edu/stat110)
+- [course webpage](https://projects.iq.harvard.edu/stat110/youtube)
+
+2. **Nonlinear Dynamics by Prof. Steven Strogatz, Conrell**
+- [youtube playlist](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+
 
 
