@@ -140,7 +140,12 @@ Courses
 ### Machine Learning
 
 
-1. ****
+1. **Learning from Data by Prof. Yaser Abu-Mostafa, Caltech**
+
+- [course webpage](http://work.caltech.edu/telecourse.html) (conatins slides, notes, videos etc...)
+- [youtube playlist](https://www.youtube.com/playlist?list=PLD63A284B7615313A) 
+- [slides](http://work.caltech.edu/lectures.html)
+
 2. ****
 3. ****
 4. ****
