@@ -13,7 +13,7 @@ Table of Contents
 - [Signals and System]()
 - [Digital Signal Processing]()
 - [Controls]()
-- [Machine Learnring]()
+- [Machine Learning]()
 - [Motion Planning]()
 
 
@@ -57,8 +57,24 @@ Courses
 - [course webpage](http://www.cs.cmu.edu/~suvrit/teach/index.html) (conatins slides, notes, videos etc...)
 - [youtube playlist](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d) 
 
-4. ****
-5. ****
+4. **Optimization: Fall 2012 by Geoff Gordon and Ryan Tibshirani**
+
+- [course webpage](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html) (conatins slides, notes, videos etc...)
+- [youtube playlist](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) 
+
+5. **Convex Optimization I by Prof. Stephen Boyd, Stanford University**
+
+
+- [course webpage](http://web.stanford.edu/class/ee364a/index.html)(conatins slides, notes, videos etc...)
+- [youtube playlist](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) 
+- [book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [slides](http://web.stanford.edu/class/ee364a/lectures.html)
+
+6. **Convex Optimization I by Prof. Stephen Boyd, Stanford University**
+
+
+
+
 
 
 
