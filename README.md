@@ -204,7 +204,7 @@ Courses
 --------
 ### Hybrid Courses (ML + Control)
 
-1. **Data-driven Control by Prof. Steve Brunton, UW**
+1. **Data-Driven Control by Prof. Steve Brunton, UW**
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
 
@@ -213,11 +213,15 @@ Courses
 - [course webpage](http://underactuated.csail.mit.edu/Spring2018/)
 - [youtube videos](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/videos)
 
+3. **Data-Driven Dynamical systems by Prof. Steve Brunton, UW**
+
+- [youtube playlist](https://www.youtube.com/watch?v=Kap3TZwAsv0&list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
+
 
 --------
 ### Motion Planning
 
-1. **Robotic Motion Planning  by Prof. Howie Choset**
+1. **Robotic Motion Planning by Prof. Howie Choset**
 
 - [course webpage](https://www.cs.cmu.edu/~motionplanning/)
 
@@ -236,6 +240,9 @@ Courses
 
 2. **Nonlinear Dynamics by Prof. Steven Strogatz, Conrell**
 - [youtube playlist](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+
+3. **Koopman Analysis by Prof. Steve Brunton, UW**
+- [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
 
 
 
