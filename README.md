@@ -140,7 +140,7 @@ Courses
 
 5. **Numerical Methods for Optimal Control by Prof. Sebastien Gross, NTNU**
 
-- [[youtube playlist](https://www.youtube.com/watch?v=x4kvKEhI5qU&list=PLc2vvxBHfBcrzR8fhWc7qjT1lr51Kjue2)
+- [youtube playlist](https://www.youtube.com/watch?v=x4kvKEhI5qU&list=PLc2vvxBHfBcrzR8fhWc7qjT1lr51Kjue2)
 
 
 
@@ -182,7 +182,7 @@ Courses
 - [youtube playlist](https://www.youtube.com/watch?v=ju1Grt2hdko&list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3&index=2&t=4205s)
 - [slides](http://mlss.tuebingen.mpg.de/2013/2013/bishop_slides.pdf)
 
-8. **Machine Learning and Nonparametric Bayesian Statistics by prof. Zoubin Ghahraman, University of Cambridge*
+8. **Machine Learning and Nonparametric Bayesian Statistics by prof. Zoubin Ghahraman, University of Cambridge**
 
 - [youtube playlist](https://www.youtube.com/watch?v=5KdWhDpeQvU&list=PLAbhVprf4VPlqc8IoCi7Qk0YQ5cPQz9fn)
 
@@ -196,14 +196,10 @@ Courses
 --------
 ### Motion Planning
 
-1. ****
-2. ****
-3. ****
-4. ****
-5. ****
-6. ****
-7. ****
-8. ****
+1. **Robotic Motion Planning  by Prof. Howie Choset**
+
+- [course webpage](https://www.cs.cmu.edu/~motionplanning/)
+
 
 
 --------
