@@ -8,18 +8,23 @@ There is a lot of ~~hidden~~ treasure lying within university pages scattered ac
 Table of Contents
 -----------------
 
-- [Linear Algebra]()
-- [Optimization]()
-- [Signals and System]()
-- [Digital Signal Processing]()
-- [Controls]()
-- [Machine Learning]()
-- [Motion Planning]()
+- [Basic of Robots]()
+- [Linear Algebra](#linear-algebra)
+- [Optimization](#optimization)
+- [Signals and System](#signals-and-system)
+- [Digital Signal Processing](#digital-signal-processing)
+- [Controls](#controls)
+- [Machine Learning](#machine-learning)
+- [Motion Planning](#motion-planning)
+- [SLAM](#slam)
 
 
 
 Courses
 -------
+
+--------
+### Basic of Robots
 
 --------
 ### Linear Algebra
@@ -155,3 +160,9 @@ Courses
 6. ****
 7. ****
 8. ****
+
+
+--------
+### Basic of Robots
+
+
