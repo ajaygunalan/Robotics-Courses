@@ -35,6 +35,8 @@ Courses
 2. **Linear Algebra by Prof. Gilbert Strang, MIT**
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+
 - [videos with title](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 
@@ -86,9 +88,16 @@ Courses
 - [youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 - [slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-notes/)
 
-2. **Signals and Systems, 2012 br Prof. S.C. Dutta Roy, IIT Delhi**
+2. **Signals and Systems, 2012 by Prof. S.C. Dutta Roy, IIT Delhi**
 
  - [youtube playlist](https://www.youtube.com/watch?v=h-CdTxDShho&list=PLC6210462711083C4)
+ 
+3. **Signals and Systems, 1987 by Prof. Alan V. Oppenheim, MIT**
+
+- [course webpage](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)
+- [youtube playlist](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
+- [notes](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/lecture-notes/)
+
 
 --------
 ### Digital Signal Processing
