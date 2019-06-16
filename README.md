@@ -3,22 +3,22 @@
 Introduction
 ------------
 
-There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome online video courses related to robotics which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome online video courses related to robotics.
 
 Table of Contents
 -----------------
 
-- [Basic of Robots](#basic-of-robotics)
-- [Linear Algebra](#linear-algebra)
-- [Optimization](#optimization)
-- [Signals and System](#signals-and-system)
-- [Digital Signal Processing](#digital-signal-processing)
-- [Controls](#controls)
-- [Machine Learning](#machine-learning)
-- [Hybrid Courses (ML + Control)](#hybrid-courses-ml--control)
-- [Motion Planning](#motion-planning)
-- [SLAM](#slam)
-- [Miscellaneous](#miscellaneous)
+1.  [Basic of Robots](#basic-of-robotics)
+2.  [Linear Algebra](#linear-algebra)
+3.  [Optimization](#optimization)
+4.  [Signals and System](#signals-and-system)
+5.  [Digital Signal Processing](#digital-signal-processing)
+6.  [Controls](#controls)
+7.  [Machine Learning](#machine-learning)
+8.  [Hybrid Courses (ML + Control)](#hybrid-courses-ml--control)
+9.  [Motion Planning](#motion-planning)
+10. [SLAM](#slam)
+11. [Miscellaneous](#miscellaneous)
 
 
 
@@ -35,6 +35,17 @@ Courses
 2. **Programming for Robotics (ROS) by Prof. Marco Hutter, ETH Zurich**
 
 - [youtube playlist](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
+
+3. **Introduction to Linear Dynamical Systems by Prof. Stephen Boyd, Stanford University**
+
+- [course webpage](http://ee263.stanford.edu/) 
+- [youtube playlist](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+
+4. **Advanced Robotics, Fall 2013 by Prof. Pieter Abbeel, UCB**
+
+- [course webpage](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/) 
+- [videos (2011)](http://rll.berkeley.edu/cs287/lecture_videos/)
+
 
 --------
 ### Linear Algebra
