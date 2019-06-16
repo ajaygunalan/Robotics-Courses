@@ -146,10 +146,24 @@ Courses
 - [youtube playlist](https://www.youtube.com/playlist?list=PLD63A284B7615313A) 
 - [slides](http://work.caltech.edu/lectures.html)
 
-2. ****
-3. ****
-4. ****
-5. ****
+2. **Deep Learning by Lex Fridman, MIT**
+
+- [course webpage](https://deeplearning.mit.edu/) 
+- [youtube playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) 
+
+3. **Statistical Learning by prof. Trevor Hastie and prof. Rob Tibshirani, Stanford**
+
+- [course webpage](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+
+4. **Artificial Intelligence by Prof. Patrick Winston, MIT**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+
+5. **Machine Learning by Prof. Andrew Ng, Stanford**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+- [youtube playlist (new)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
 6. ****
 7. ****
 8. ****
