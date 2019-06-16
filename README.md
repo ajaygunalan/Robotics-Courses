@@ -57,7 +57,7 @@ Courses
 - [course webpage](http://www.cs.cmu.edu/~suvrit/teach/index.html) (conatins slides, notes, videos etc...)
 - [youtube playlist](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d) 
 
-4. **Optimization: Fall 2012 by Geoff Gordon and Ryan Tibshirani**
+4. **Optimization: Fall 2012 by Geoff Gordon and Ryan Tibshirani, CMU**
 
 - [course webpage](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html) (conatins slides, notes, videos etc...)
 - [youtube playlist](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) 
