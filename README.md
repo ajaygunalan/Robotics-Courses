@@ -144,7 +144,7 @@ Courses
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PL5105727DD6E8DE98) 
 
-4. **Nonlinear Controls by Prof. Slotine**
+4. **Nonlinear Controls by Prof. Slotine, MIT**
 
 - [course webpage](http://web.mit.edu/nsl/www/videos/lectures.html)
 
