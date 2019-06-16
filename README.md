@@ -3,7 +3,7 @@
 Introduction
 ------------
 
-There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome online video courses related to robotics.
+There is a lot of ~~hidden~~ treasure lying scattered across the internet. This list is an attempt to bring to light those awesome online video courses related to robotics.
 
 Table of Contents
 -----------------
