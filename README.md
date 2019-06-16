@@ -77,17 +77,30 @@ Courses
 - [slides](http://stanford.edu/class/ee364b/lectures.html)
 
 
-
-
-
-
-
-
 --------
 ### Signals and System
 
+1. **Signals and Systems, Fall 2011 by Prof. Dennis Freeman, MIT**
+
+- [course webpage](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/index.htm) (conatins slides, notes, videos etc...)
+- [youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
+- [slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-notes/)
+
+2. **Signals and Systems, 2012 br Prof. S.C. Dutta Roy, IIT Delhi**
+
+ - [youtube playlist](https://www.youtube.com/watch?v=h-CdTxDShho&list=PLC6210462711083C4)
+
 --------
 ### Digital Signal Processing
+
+1. ****
+2. ****
+3. ****
+4. ****
+5. ****
+6. ****
+7. ****
+8. ****
 
 --------
 ### Controls
