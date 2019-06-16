@@ -35,11 +35,8 @@ Courses
 2. **Linear Algebra by Prof. Gilbert Strang, MIT**
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-
-
 - [videos with title](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
-
 
 --------
 ### Optimization
