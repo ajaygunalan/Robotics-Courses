@@ -15,6 +15,7 @@ Table of Contents
 - [Digital Signal Processing](#digital-signal-processing)
 - [Controls](#controls)
 - [Machine Learning](#machine-learning)
+- [Hybrid Courses (ML + Control)](#hybrid-courses-ml--control)
 - [Motion Planning](#motion-planning)
 - [SLAM](#slam)
 - [Miscellaneous](#miscellaneous)
@@ -33,7 +34,7 @@ Courses
 
 2. **Programming for Robotics (ROS) by Prof. Marco Hutter, ETH Zurich**
 
-- [https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
+- [youtube playlist](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 
 --------
 ### Linear Algebra
