@@ -105,7 +105,6 @@ Courses
 2. **DSP, 2014 by Prof. S.C. Dutta Roy, IIT Delhi**
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PL6A52D13868928811) 
--
  
 3. **DSP, 1987 by Prof. Alan V. Oppenheim, MIT**
 
@@ -118,14 +117,19 @@ Courses
 ### Controls
 
 
-1. ****
-2. ****
-3. ****
-4. ****
-5. ****
-6. ****
-7. ****
-8. ****
+1. **Control Bootcamp by Prof. Steve Brunton, UW**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) 
+
+2. **Classical Control Theory by Brian Douglas**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) 
+
+3. **Control Systems Engineering by Benjamin Drew**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PL5105727DD6E8DE98) 
+
+
 
 --------
 ### Machine Learning
