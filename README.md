@@ -24,7 +24,15 @@ Courses
 -------
 
 --------
-### Basic of Robots
+### Basic of Robotics 
+
+1. **Introduction to Robotics by Prof. Oussama Khatib, Stanford**
+
+- [youtube playlist](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL65CC0384A1798ADF)
+
+2. **Programming for Robotics (ROS) by Prof. Marco Hutter, ETH Zurich**
+
+- [https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 
 --------
 ### Linear Algebra
@@ -191,6 +199,10 @@ Courses
 - [youtube playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT&index=2&t=0s)
 - [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
+--------
+### Hybrid Courses (ML + Control)
+
+1.
 
 
 --------
@@ -200,7 +212,11 @@ Courses
 
 - [course webpage](https://www.cs.cmu.edu/~motionplanning/)
 
+--------
+### SLAM
 
+1. **SLAM by Prof. Cyrill Stachniss Univ. of Freiburg** 
+- [youtube playlist](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
 
 --------
 ### Miscellaneous
