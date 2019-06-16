@@ -79,7 +79,7 @@ Courses
 5. **Convex Optimization I by Prof. Stephen Boyd, Stanford University**
 
 - [course webpage](http://web.stanford.edu/class/ee364a/index.html) (conatins slides, notes, videos etc...)
-- [youtube playlist](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) 
+- [youtube playlist](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622&index=1) 
 - [book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - [slides](http://web.stanford.edu/class/ee364a/lectures.html)
 
