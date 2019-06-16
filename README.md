@@ -8,7 +8,7 @@ There is a lot of ~~hidden~~ treasure lying within university pages scattered ac
 Table of Contents
 -----------------
 
-1.  [Basic of Robots](#basic-of-robotics)
+1.  [Basics of Robots](#basics-of-robotics)
 2.  [Linear Algebra](#linear-algebra)
 3.  [Optimization](#optimization)
 4.  [Signals and System](#signals-and-system)
@@ -26,7 +26,7 @@ Courses
 -------
 
 --------
-### Basic of Robotics 
+### Basics of Robotics 
 
 1. **Introduction to Robotics by Prof. Oussama Khatib, Stanford**
 
