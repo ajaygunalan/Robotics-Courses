@@ -42,6 +42,27 @@ Courses
 --------
 ### Optimization
 
+1. **Numerical Optimization by Prof. Shirish K. Shevade, IISc**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PL6EA0722B99332589)
+- [slides and transcript](https://nptel.ac.in/courses/nptel_download.php?subjectid=106108056)
+
+2. **Convex Optimization: Fall 2018 by Dr. Ryan Tibshirani, CMU**
+
+- [course webpage](http://www.stat.cmu.edu/~ryantibs/convexopt/) (conatins slides, notes, videos etc...)
+- [youtube playlist](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
+
+3. **Advanced Optimization and Randomized Methods by Alex Smola and Suvrit Sra, CMU**
+
+- [course webpage](http://www.cs.cmu.edu/~suvrit/teach/index.html) (conatins slides, notes, videos etc...)
+- [youtube playlist](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d) 
+
+4. ****
+5. ****
+
+
+
+
 --------
 ### Signals and System
 
