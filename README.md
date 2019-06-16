@@ -134,6 +134,14 @@ Courses
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PL5105727DD6E8DE98) 
 
+4. **Nonlinear Controls by Prof. Slotine**
+
+- [course webpage](http://web.mit.edu/nsl/www/videos/lectures.html)
+
+5. **Numerical Methods for Optimal Control by Prof. Sebastien Gross, NTNU**
+
+- [[youtube playlist](https://www.youtube.com/watch?v=x4kvKEhI5qU&list=PLc2vvxBHfBcrzR8fhWc7qjT1lr51Kjue2)
+
 
 
 --------
@@ -164,9 +172,26 @@ Courses
 - [youtube playlist](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [youtube playlist (new)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-6. ****
-7. ****
-8. ****
+6. **Introduction to Computational Thinking and Data Science, Fall 2016 by Prof. John Guttag, MIT**
+
+- [course webpage](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) 
+- [youtube playlist](https://www.youtube.com/watch?v=nSBGd0GEqLI&list=PL2gOEt98czRRQ0NKUc3mpvR0v2Mjb1qku&index=2&t=0s) 
+
+7. **Probabilistic Graphical Models by Chris Bishop, Microsoft Research Cambridge**
+
+- [youtube playlist](https://www.youtube.com/watch?v=ju1Grt2hdko&list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3&index=2&t=4205s)
+- [slides](http://mlss.tuebingen.mpg.de/2013/2013/bishop_slides.pdf)
+
+8. **Machine Learning and Nonparametric Bayesian Statistics by prof. Zoubin Ghahraman, University of Cambridge*
+
+- [youtube playlist](https://www.youtube.com/watch?v=5KdWhDpeQvU&list=PLAbhVprf4VPlqc8IoCi7Qk0YQ5cPQz9fn)
+
+9. **Reinforcement Learning by David Silver, UCL**
+
+- [youtube playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT&index=2&t=0s)
+- [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+
 
 --------
 ### Motion Planning
@@ -183,5 +208,12 @@ Courses
 
 --------
 ### Basic of Robots
+
+
+### Miscellaneous
+
+ 1. **Probability by Joe Blitstein, Harvard**
+
+- [course webpageects.iq.harvard.edu/stat110)
 
 
