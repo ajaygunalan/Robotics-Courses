@@ -99,14 +99,20 @@ Courses
 --------
 ### Digital Signal Processing
 
-1. ****
-2. ****
-3. ****
-4. ****
-5. ****
-6. ****
-7. ****
-8. ****
+1. **DSP by Paolo Prandoni and Prof. Martin Vetterli, CMU (Coursera)**
+- [coursera](https://www.coursera.org/learn/dsp)
+
+2. **DSP, 2014 by Prof. S.C. Dutta Roy, IIT Delhi**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PL6A52D13868928811) 
+-
+ 
+3. **DSP, 1987 by Prof. Alan V. Oppenheim, MIT**
+
+- [course webpage](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/index.htm)
+- [youtube playlist](https://www.youtube.com/watch?v=rkvEM5Y3N60&list=PL8157CA8884571BA2) 
+- [notes](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
+
 
 --------
 ### Controls
