@@ -272,5 +272,8 @@ Courses
 3. **Koopman Analysis by Prof. Steve Brunton, UW**
 - [youtube playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
 
+4. **Motion Control by Rajesh Rajamani, Univ. of Minnesota**
+- [course website](http://www.me.umn.edu/courses/me4231/index.html)
+
 
 
