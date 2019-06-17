@@ -126,6 +126,11 @@ Courses
 - [youtube playlist](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
 - [notes](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/lecture-notes/)
 
+ ## Other References
+
+   1. [David Doran's Youtube Channel](https://www.youtube.com/user/ddorran/playlists)
+   2. [Fourier Series slides](http://www.ee.ic.ac.uk/hp/staff/dmb/courses/E1Fourier/00300_ComplexFourier.pdf)
+
 
 --------
 ### Digital Signal Processing
