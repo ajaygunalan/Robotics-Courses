@@ -227,6 +227,7 @@ Courses
 
 - [youtube playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT&index=2&t=0s)
 - [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [notes](https://github.com/Yeshasvitvs/Reinforcement-Learning-Notes)
 
 --------
 ### Hybrid Courses (ML + Control)
