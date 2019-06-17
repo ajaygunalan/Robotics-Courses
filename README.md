@@ -173,7 +173,13 @@ Courses
 
 - [youtube playlist](https://www.youtube.com/watch?v=x4kvKEhI5qU&list=PLc2vvxBHfBcrzR8fhWc7qjT1lr51Kjue2)
 
+6. **Optimal and Robust Control by CTU in Prague**
 
+- [youtube playlist](https://www.youtube.com/playlist?list=PLMLojHoA_QPmRiPotD_TnfdUkglTexuqm)
+
+7. **State Space Control by Dr. Jake Abbott, Univ. of Utah**
+
+- [course webpage](https://www.telerobotics.utah.edu/index.php/StateSpaceControl)
 
 --------
 ### Machine Learning
