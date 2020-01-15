@@ -284,6 +284,9 @@ Courses
 7. **Data Structures and Algorithms by Udacity**
 - [course website](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
 
+8. **C++ Design Patterns by Dmitri Nesteruk**
+- [course website](https://www.pluralsight.com/paths/c-design-patterns)
+
 
 
 
