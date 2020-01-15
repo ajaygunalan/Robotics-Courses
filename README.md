@@ -275,5 +275,16 @@ Courses
 4. **Motion Control by Rajesh Rajamani, Univ. of Minnesota**
 - [course website](http://www.me.umn.edu/courses/me4231/index.html)
 
+5. **Fundamentals of Computing Specialization by Rice University**
+- [course website](https://www.coursera.org/learn/principles-of-computing-1)
+
+6. **C++ by Udacity**
+- [course website](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
+
+7. **Data Structures and Algorithms by Udacity**
+- [course website](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
+
+
+
 
 
