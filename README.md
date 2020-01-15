@@ -287,7 +287,6 @@ Courses
 8. **C++ Design Patterns by Dmitri Nesteruk**
 - [course website](https://www.pluralsight.com/paths/c-design-patterns)
 
-
 9. **Intermediate Software Design by Prof. Douglas C. Schmidt, Vanderbilt Univeristy**
 
 - [course webpage](http://www.dre.vanderbilt.edu/~schmidt/cs251/) 
