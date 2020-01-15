@@ -288,6 +288,12 @@ Courses
 - [course website](https://www.pluralsight.com/paths/c-design-patterns)
 
 
+9. **Intermediate Software Design by Prof. Douglas C. Schmidt, Vanderbilt Univeristy**
+
+- [course webpage](http://www.dre.vanderbilt.edu/~schmidt/cs251/) 
+- [youtube playlist](https://www.youtube.com/playlist?list=PLPg4X1NeRKgUocRAONac3XlTH2dxRf270)
+
+
 
 
 
