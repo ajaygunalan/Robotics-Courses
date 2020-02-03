@@ -292,6 +292,11 @@ Courses
 - [course webpage](http://www.dre.vanderbilt.edu/~schmidt/cs251/) 
 - [youtube playlist](https://www.youtube.com/playlist?list=PLPg4X1NeRKgUocRAONac3XlTH2dxRf270)
 
+10. **Angrave's crowd-sourced System Programming wiki-book! This wiki was actively built and maintained 2014-2018 by students and faculty from the University of Illinois**
+
+- [course webpage](https://github.com/angrave/SystemProgramming/wiki) 
+
+
 
 
 
