@@ -296,6 +296,10 @@ Courses
 
 - [course webpage](https://github.com/angrave/SystemProgramming/wiki) 
 
+11. **Embedding Sensors and Motors Specialization by Prof. James Zweighaft and Prof. Jay Mendelson, UCB**
+
+- [course webpage](https://www.coursera.org/specializations/embedding-sensors-motors)
+
 
 
 
