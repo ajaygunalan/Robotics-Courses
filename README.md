@@ -135,7 +135,7 @@ Courses
 --------
 ### Digital Signal Processing
 
-1. **DSP by Paolo Prandoni and Prof. Martin Vetterli, CMU (Coursera)**
+1. **DSP by Paolo Prandoni and Prof. Martin Vetterli, EPFL (Coursera)**
 - [coursera](https://www.coursera.org/learn/dsp)
 
 2. **DSP, 2014 by Prof. S.C. Dutta Roy, IIT Delhi**
