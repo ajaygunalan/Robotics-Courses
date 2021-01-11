@@ -64,6 +64,11 @@ Courses
 - [videos with title](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 
+3. **Linear Algebra by Prof. Lorenzo Sadun, UT Austin**
+
+- [youtube playlist](https://www.youtube.com/playlist?list=PLZcI2rZdDGQrb4VjOoMm2-o7Fu_mvij8F)
+- They way he solved wave equations is simple and amazing. Probably, best in the world!
+
 --------
 ### Optimization
 
