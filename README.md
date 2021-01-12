@@ -307,10 +307,5 @@ Courses
 
 12. **Real Analysis by DTU**
 
--[youtube playlist](https://www.youtube.com/playlist?list=PLMn2aW3wpAtOqo0g0OnHndXB1LnYBeMaX)
-
-
-
-
-
+- [youtube playlist](https://www.youtube.com/playlist?list=PLMn2aW3wpAtOqo0g0OnHndXB1LnYBeMaX)
 
