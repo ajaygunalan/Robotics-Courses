@@ -18,7 +18,8 @@ Table of Contents
 8.  [Hybrid Courses (ML + Control)](#hybrid-courses-ml--control)
 9.  [Motion Planning](#motion-planning)
 10. [SLAM](#slam)
-11. [Miscellaneous](#miscellaneous)
+11. [Probability](#probability)
+12. [Miscellaneous](#miscellaneous)
 
 
 
@@ -265,11 +266,19 @@ Courses
 - [youtube playlist](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
 
 --------
-### Miscellaneous
+### Probability
 
  1. **Probability by Joe Blitstein, Harvard**
-
 - [course webpage](https://projects.iq.harvard.edu/stat110/youtube)
+
+2. **Probabilistic Systems Analysis and Applied Probability by Prof. John Tsitsiklis & Prof. Patrick Jaillet, MIT**
+- [course webpage](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)
+
+
+--------
+### Miscellaneous
+
+
 
 2. **Nonlinear Dynamics by Prof. Steven Strogatz, Conrell**
 - [youtube playlist](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
