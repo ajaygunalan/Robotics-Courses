@@ -112,6 +112,8 @@ Courses
 - [course webpage](http://am207.github.io/2016/index.html)
 - [videos](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/02/24104)
 
+8. **Optimization Algorithms by Constantine Caramanis**
+- [youtube playlist](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) 
 
 --------
 ### Signals and System
