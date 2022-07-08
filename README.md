@@ -156,6 +156,11 @@ Courses
 - [youtube playlist](https://www.youtube.com/watch?v=rkvEM5Y3N60&list=PL8157CA8884571BA2) 
 - [notes](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
 
+4. **DSP by Rich Radke, RPI**
+- [youtube playlist](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et) 
+
+5. **Digital Image Processing by Rich Radke, RPI**
+- [youtube playlist](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX) 
 
 --------
 ### Controls
