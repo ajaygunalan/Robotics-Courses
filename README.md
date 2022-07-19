@@ -115,6 +115,8 @@ Courses
 8. **Optimization Algorithms by Constantine Caramanis, UT Austin**
 - [youtube playlist](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) 
 
+
+9. [Computational Statistics](http://www.stat.columbia.edu/~liam/teaching/compstat-spr19/)
 --------
 ### Signals and System
 
