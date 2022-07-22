@@ -164,6 +164,10 @@ Courses
 5. **Digital Image Processing by Rich Radke, RPI**
 - [youtube playlist](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX) 
 
+
+6. **[Compressed Sensing and Sparse Signal Processing](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:index#video_lectures_and_notes) by IISc Prof. Chandra R. Murthy**
+ - [videos](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:lectures)
+
 --------
 ### Controls
 
@@ -283,8 +287,6 @@ Courses
 --------
 ### Miscellaneous
 
-1. [Compressed Sensing and Sparse Signal Processing](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:index#video_lectures_and_notes) by IISc Prof. Chandra R. Murthy
- - [videos](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:lectures)
 
 2. **Nonlinear Dynamics by Prof. Steven Strogatz, Conrell**
 - [youtube playlist](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
