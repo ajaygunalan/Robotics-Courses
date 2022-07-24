@@ -168,6 +168,7 @@ Courses
 6. **Compressed Sensing and Sparse Signal Processing by IISc Prof. Chandra R. Murthy**
   - [course webpage](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:index#video_lectures_and_notes)
   - [videos](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:lectures)
+  - Follows,  "A Mathematical Introduction to Compressive Sensing" by Foucart Simon.
 
 --------
 ### Controls
