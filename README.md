@@ -169,6 +169,12 @@ Courses
   - [course webpage](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:index#video_lectures_and_notes)
   - [videos](https://ece.iisc.ac.in/~cmurthy/doku.php?id=courses:sp21:e9-203:lectures)
   - Follows,  "A Mathematical Introduction to Compressive Sensing" by Foucart Simon.
+  
+ 7. **Andrew Reader**
+ [Medical Image Reconstruction](https://www.youtube.com/user/andrewjreader/playlists)
+ 
+ 8. **Tsinghua Course on Sparse Approximation**
+ - [course webpage](https://jrom.ece.gatech.edu/tsinghua-oct13/)
 
 --------
 ### Controls
