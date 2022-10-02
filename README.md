@@ -334,3 +334,5 @@ Courses
 
 - [youtube playlist](https://www.youtube.com/playlist?list=PLMn2aW3wpAtOqo0g0OnHndXB1LnYBeMaX)
 
+13. [Real-time Operating Systems ](https://www.youtube.com/playlist?list=PL-zHubGth7-SxusQRmG448fHZuQ0S5Fk_)
+
