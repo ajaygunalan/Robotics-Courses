@@ -136,6 +136,10 @@ Courses
 - [youtube playlist](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
 - [notes](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/lecture-notes/)
 
+4. **Signal Processing by Prof. Barry Van Veen, University of Wisconsin - Madison**
+
+- [youtube page](https://www.youtube.com/@allsignalprocessing/playlists) 
+
  #### Other References
 
    1. [David Doran's Youtube Channel](https://www.youtube.com/user/ddorran/playlists)
